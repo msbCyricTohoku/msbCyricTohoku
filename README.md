@@ -2,7 +2,6 @@
 - 👀 I’m interested in sitting in front of my computer.
 - 🌱 I’m currently learning nothing new!
 - 💞️ I’m looking to collaborate on whatever...
-- 📫 How to reach me: ben.sh@tohoku.ac.jp
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: I love scientific software developments.
 
