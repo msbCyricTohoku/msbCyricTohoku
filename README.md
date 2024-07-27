@@ -12,5 +12,3 @@
 
 ### 📈 Language Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msbCyricTohoku&layout=compact&bg_color=000000)](https://github.com/msbCyricTohoku/github-readme-stats)
-
----
