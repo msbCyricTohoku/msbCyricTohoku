@@ -1,4 +1,7 @@
-![alt text](https://github.com/msbCyricTohoku/msbCyricTohoku/blob/main/r2.gif) ![alt text](https://github.com/msbCyricTohoku/msbCyricTohoku/blob/main/r1.gif)
+<p align="center">
+  <img src="https://github.com/msbCyricTohoku/msbCyricTohoku/raw/main/r2.gif" alt="GIF 1" width="400" />
+  <img src="https://github.com/msbCyricTohoku/msbCyricTohoku/raw/main/r1.gif" alt="GIF 2" width="400" />
+</p>
 # Hi there 👋, I'm @msbCyricTohoku!
 
 - 👀 I’m interested in sitting in front of my computer.
