@@ -4,12 +4,12 @@
 </p>
 # Hi there 👋, I'm @msbCyricTohoku!
 
-- 👀 I’m interested in sitting in front of my computer.
+- 👀 I’m interested in sitting in front of my computer
 - 🌱 I’m currently learning nothing new!
 - 💞️ I’m looking to collaborate on whatever...
 - 📫 How to reach me: msb@tuta.com
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: I love scientific software developments.
+- ⚡ Fun fact: I love scientific software developments
 
 ### 📊 GitHub Stats:
 [![msbCyricTohoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=msbCyricTohoku)](https://github.com/msbCyricTohoku/github-readme-stats)
