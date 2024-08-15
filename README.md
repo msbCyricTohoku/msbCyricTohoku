@@ -1,3 +1,4 @@
+![alt text](https://github.com/msbCyricTohoku/msbCyricTohoku/blob/main/r2.gif) ![alt text](https://github.com/msbCyricTohoku/msbCyricTohoku/blob/main/r1.gif)
 # Hi there 👋, I'm @msbCyricTohoku!
 
 - 👀 I’m interested in sitting in front of my computer.
