@@ -14,10 +14,6 @@
 ### 📊 GitHub Stats:
 [![msbCyricTohoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=msbCyricTohoku)](https://github.com/msbCyricTohoku/github-readme-stats)
 
-### 📈 Language Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msbCyricTohoku&layout=compact)](https://github.com/msbCyricTohoku/github-readme-stats)
-
-
 # GPG Public Key
 
 ![GitHub Verified Commits](https://img.shields.io/badge/Commits-Signed-brightgreen)
