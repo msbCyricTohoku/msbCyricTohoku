@@ -19,13 +19,10 @@
   &nbsp; 
 </p>
 
-I'm a developer with a strong passion for **scientific software development**. I enjoy the process of building tools that help drive research and discovery. You'll often find me deeply engaged with my computer, exploring new coding challenges or refining existing projects.
+I'm mostly on my computer!
 
-- 🌱 Focused on honing skills in scientific computing libraries and techniques.
-- 💞️ Open to collaborating on interesting open-source projects (science, data analysis, simulation).
+- 🌱 Focused on scientific computing libraries and techniques.
 - 📫 How to reach me: **msb@tuta.com**
-- 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: Building robust and efficient scientific software truly excites me!
 
 ---
 
