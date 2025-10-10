@@ -34,14 +34,8 @@ I'm mostly on my computer!
   <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-65AADC?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/></a>
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GTK-777777?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
   <img src="https://img.shields.io/badge/Interested%20in-Scientific%20Computing-blue?style=for-the-badge" alt="Interested in Scientific Computing"/>
 </p>
