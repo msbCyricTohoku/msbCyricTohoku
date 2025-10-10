@@ -21,7 +21,7 @@
 
 I'm mostly on my computer!
 
-- 🌱 Focused on scientific computing libraries and techniques.
+- 🌱 Focused on scientific computing.
 - 📫 How to reach me: **msb@tuta.com**
 
 ---
