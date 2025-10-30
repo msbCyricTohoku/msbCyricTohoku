@@ -46,7 +46,6 @@ I'm mostly on my computer!
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbCyricTohoku&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="msbCyricTohoku's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbCyricTohoku&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
