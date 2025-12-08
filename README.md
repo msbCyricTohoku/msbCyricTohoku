@@ -1,9 +1,4 @@
 <p align="center">
-    <img src="https://github.com/msbCyricTohoku/msbCyricTohoku/raw/main/r2.gif" alt="Scientific Computing Animation" width="400" />
-  <img src="https://github.com/msbCyricTohoku/msbCyricTohoku/raw/main/r1.gif" alt="Code Animation" width="400" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ben!;Passionate+about...;" alt="Typing SVG" />
   </a>
